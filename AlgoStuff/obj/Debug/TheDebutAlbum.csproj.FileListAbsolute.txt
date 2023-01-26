@@ -1,0 +1,8 @@
+C:\Users\Karol\Desktop\programowanie\algorytmy\AlgoStuff\bin\Debug\AlgoStuff.exe.config
+C:\Users\Karol\Desktop\programowanie\algorytmy\AlgoStuff\bin\Debug\AlgoStuff.exe
+C:\Users\Karol\Desktop\programowanie\algorytmy\AlgoStuff\bin\Debug\AlgoStuff.pdb
+C:\Users\Karol\Desktop\programowanie\algorytmy\AlgoStuff\obj\Debug\TheDebutAlbum.csproj.AssemblyReference.cache
+C:\Users\Karol\Desktop\programowanie\algorytmy\AlgoStuff\obj\Debug\TheDebutAlbum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karol\Desktop\programowanie\algorytmy\AlgoStuff\obj\Debug\TheDebutAlbum.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\programowanie\algorytmy\AlgoStuff\obj\Debug\AlgoStuff.exe
+C:\Users\Karol\Desktop\programowanie\algorytmy\AlgoStuff\obj\Debug\AlgoStuff.pdb
