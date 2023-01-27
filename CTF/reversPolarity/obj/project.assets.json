@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ziobro.k\\Desktop\\shared\\algo\\reversPolarity\\reversPolarity.csproj",
+      "projectUniqueName": "C:\\Users\\Ziobro.k\\Desktop\\algo\\AlgoAndStuff\\TimusOnlineJudge\\reversPolarity\\reversPolarity.csproj",
       "projectName": "reversPolarity",
-      "projectPath": "C:\\Users\\Ziobro.k\\Desktop\\shared\\algo\\reversPolarity\\reversPolarity.csproj",
+      "projectPath": "C:\\Users\\Ziobro.k\\Desktop\\algo\\AlgoAndStuff\\TimusOnlineJudge\\reversPolarity\\reversPolarity.csproj",
       "packagesPath": "C:\\Users\\Ziobro.k\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ziobro.k\\Desktop\\shared\\algo\\reversPolarity\\obj\\",
+      "outputPath": "C:\\Users\\Ziobro.k\\Desktop\\algo\\AlgoAndStuff\\TimusOnlineJudge\\reversPolarity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ziobro.k\\AppData\\Roaming\\NuGet\\NuGet.Config",
