@@ -1,0 +1,6 @@
+C:\Users\Ziobro.k\Desktop\shared\algo\1134 Cards\bin\Debug\1134 Cards.exe.config
+C:\Users\Ziobro.k\Desktop\shared\algo\1134 Cards\bin\Debug\1134 Cards.exe
+C:\Users\Ziobro.k\Desktop\shared\algo\1134 Cards\bin\Debug\1134 Cards.pdb
+C:\Users\Ziobro.k\Desktop\shared\algo\1134 Cards\obj\Debug\1134 Cards.csproj.CoreCompileInputs.cache
+C:\Users\Ziobro.k\Desktop\shared\algo\1134 Cards\obj\Debug\1134 Cards.exe
+C:\Users\Ziobro.k\Desktop\shared\algo\1134 Cards\obj\Debug\1134 Cards.pdb

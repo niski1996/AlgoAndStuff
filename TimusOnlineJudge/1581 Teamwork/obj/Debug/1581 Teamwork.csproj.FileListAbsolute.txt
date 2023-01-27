@@ -1,0 +1,6 @@
+C:\Users\Ziobro.k\Desktop\shared\algo\1581 Teamwork\bin\Debug\1581 Teamwork.exe.config
+C:\Users\Ziobro.k\Desktop\shared\algo\1581 Teamwork\bin\Debug\1581 Teamwork.exe
+C:\Users\Ziobro.k\Desktop\shared\algo\1581 Teamwork\bin\Debug\1581 Teamwork.pdb
+C:\Users\Ziobro.k\Desktop\shared\algo\1581 Teamwork\obj\Debug\1581 Teamwork.csproj.CoreCompileInputs.cache
+C:\Users\Ziobro.k\Desktop\shared\algo\1581 Teamwork\obj\Debug\1581 Teamwork.exe
+C:\Users\Ziobro.k\Desktop\shared\algo\1581 Teamwork\obj\Debug\1581 Teamwork.pdb
