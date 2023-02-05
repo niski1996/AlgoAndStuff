@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Sort
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            var li = new List<int> { 3, 4, 5, 2, 4, 1, 3 };
-            insertSort(li);
+            var li = new List<int> { 3, 4, 5, 1, 4, 2, 3 };
+            QuickSort(li);
             foreach (var item in li)
             {
                 Console.WriteLine( item);
@@ -33,5 +33,51 @@ namespace Sort
             }
             return input;
         }
+        public static List<int> BubbleSort(List<int> input)
+        {
+            for (int i = 1; i < input.Count; i++)
+            {
+				for (int k = 0; k < i; k++)
+				{
+					if (input[i-k]<input[i-k-1])
+					{
+                        (input[i - k], input[i - k - 1]) = (input[i - k - 1], input[i - k]);
+                    }
+					else
+					{
+                        break;
+					}
+				}
+            }
+            return input;
+        }
+        public static List<int> QuickSort(List<int> input, int beg=0,int? end=null)
+        {
+            int pivotIndex = beg;
+            end=end ?? input.Count-1;
+            if (end-beg+1>1)
+            {
+
+                for (int i = beg+1; i <= end; i++)
+                {
+                    if (input[pivotIndex] > input[i])
+                    {
+                        input.Insert(beg, input[i]);
+                        input.RemoveAt(i + 1);
+                        pivotIndex++;
+                    }
+
+                }
+                QuickSort(input, beg, pivotIndex - 1);
+                QuickSort(input, pivotIndex + 1, end);
+                return input;
+
+            }
+			else
+			{
+                return input;
+			}
+        }
+
     }
 }
