@@ -1,0 +1,16 @@
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\bin\Debug\net5.0\GreyCode.exe
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\bin\Debug\net5.0\GreyCode.deps.json
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\bin\Debug\net5.0\GreyCode.runtimeconfig.json
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\bin\Debug\net5.0\GreyCode.runtimeconfig.dev.json
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\bin\Debug\net5.0\GreyCode.dll
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\bin\Debug\net5.0\ref\GreyCode.dll
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\bin\Debug\net5.0\GreyCode.pdb
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\GreyCode.csproj.AssemblyReference.cache
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\GreyCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\GreyCode.AssemblyInfoInputs.cache
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\GreyCode.AssemblyInfo.cs
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\GreyCode.csproj.CoreCompileInputs.cache
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\GreyCode.dll
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\ref\GreyCode.dll
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\GreyCode.pdb
+C:\Users\Ziobro.k\Desktop\shared\algo\GreyCode\obj\Debug\net5.0\GreyCode.genruntimeconfig.cache

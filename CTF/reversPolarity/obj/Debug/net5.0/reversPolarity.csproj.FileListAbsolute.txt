@@ -1,0 +1,16 @@
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\bin\Debug\net5.0\reversPolarity.exe
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\bin\Debug\net5.0\reversPolarity.deps.json
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\bin\Debug\net5.0\reversPolarity.runtimeconfig.json
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\bin\Debug\net5.0\reversPolarity.runtimeconfig.dev.json
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\bin\Debug\net5.0\reversPolarity.dll
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\bin\Debug\net5.0\ref\reversPolarity.dll
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\bin\Debug\net5.0\reversPolarity.pdb
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\reversPolarity.csproj.AssemblyReference.cache
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\reversPolarity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\reversPolarity.AssemblyInfoInputs.cache
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\reversPolarity.AssemblyInfo.cs
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\reversPolarity.csproj.CoreCompileInputs.cache
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\reversPolarity.dll
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\ref\reversPolarity.dll
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\reversPolarity.pdb
+C:\Users\Ziobro.k\Desktop\shared\algo\reversPolarity\obj\Debug\net5.0\reversPolarity.genruntimeconfig.cache

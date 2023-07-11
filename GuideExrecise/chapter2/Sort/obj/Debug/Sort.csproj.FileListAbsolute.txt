@@ -1,0 +1,17 @@
+C:\Users\Karol\Desktop\programowanie\algorytmy\Sort\bin\Debug\Sort.exe.config
+C:\Users\Karol\Desktop\programowanie\algorytmy\Sort\bin\Debug\Sort.exe
+C:\Users\Karol\Desktop\programowanie\algorytmy\Sort\bin\Debug\Sort.pdb
+C:\Users\Karol\Desktop\programowanie\algorytmy\Sort\obj\Debug\Sort.csproj.AssemblyReference.cache
+C:\Users\Karol\Desktop\programowanie\algorytmy\Sort\obj\Debug\Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karol\Desktop\programowanie\algorytmy\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\programowanie\algorytmy\Sort\obj\Debug\Sort.exe
+C:\Users\Karol\Desktop\programowanie\algorytmy\Sort\obj\Debug\Sort.pdb
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\bin\Debug\Sort.exe.config
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\bin\Debug\Sort.exe
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\bin\Debug\Sort.pdb
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\bin\Debug\System.ValueTuple.dll
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\bin\Debug\System.ValueTuple.xml
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\obj\Debug\Sort.csproj.CopyComplete
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\obj\Debug\Sort.exe
+C:\Users\Ziobro.k\Desktop\algo\AlgoAndStuff\GuideExrecise\chapter2\Sort\obj\Debug\Sort.pdb
