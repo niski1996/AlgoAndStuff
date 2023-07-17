@@ -1,0 +1,78 @@
+Hello, your test today is to create an algorithm. You do not have a description of what it should do, all you have are the inputs and outputs. All inputs are strings and all outputs are required to be.
+Example 1:
+
+Input: abcdefghijklmnopqrstuvwxyz
+
+Output:
+
+xxxxxxxxxxxxxxxxxxxxxxxxw  
+y                       w  
+y tttttttttttttttttttts w  
+y u                   s w  
+y u ppppppppppppppppo s w  
+y u q               o s w  
+y u q llllllllllllk o s w  
+y u q m           k o s w  
+y u q m hhhhhhhhg k o s w  
+y u q m i       g k o s w  
+y u q m i ddddc g k o s w  
+y u q m i e   c g k o s w  
+y u q m i e   c g k o s w  
+y u q m i e abb g k o s w  
+y u q m i e     g k o s w  
+y u q m i effffff k o s w  
+y u q m i         k o s w  
+y u q m ijjjjjjjjjj o s w  
+y u q m             o s w  
+y u q mnnnnnnnnnnnnnn s w  
+y u q                 s w  
+y u qrrrrrrrrrrrrrrrrrr w  
+y u                     w  
+y uvvvvvvvvvvvvvvvvvvvvvv  
+y                          
+yzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+Example 2:
+
+Input: adbbeb
+
+Output:
+
+  bbb
+  e b
+adedd
+  e  
+  e  
+  ebb
+
+Example 3:
+
+Input: wordspiral
+
+Output:
+
+w                           
+w                           
+w                           
+w                           
+w          ddddr            
+w          s   r            
+w          s   r            
+w          s   r            
+w          s   r            
+w          s   r            
+w          s   r            
+w          s   r            
+w          s   r            
+w          s   r            
+w        rrrrrrrrrrrrrrrrrri
+w        allllllllllll     i
+w          s   r           i
+w          s   r           i
+w          s   r           i
+w          s   r           i
+w          s   r           i
+w          s   r           i
+woooooooooosoooo           i
+           spppppppppppppppp
+

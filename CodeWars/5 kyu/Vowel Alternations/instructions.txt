@@ -18,3 +18,5 @@ sorted_solutions == [['ball', 'bell', 'bill', 'boll', 'bull'],
                      ['last', 'lest', 'list', 'lost', 'lust']]
 
 For the sake of simplificiation, you may assume that the words in the list you are searching over are unique.
+
+TU JEST "VOWEL" - LICZBA POJEDYNCZA - MAJĄ DZIELIĆ TYLKO JEDNĄ SAMOGŁOSKĘ, WIĘC 'RUKIA' I 'RIKUI' SIE NIE ŁAPIĄ
